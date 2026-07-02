@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pranit-ingole" target="blank">
+  <a href="https://www.linkedin.com/in/pranitingole" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="mailto:pranitingole1@gmail.com">
@@ -29,7 +29,7 @@
 * 📊 Experienced in designing **ETL/ELT Pipelines, Event-Driven Architectures, Microservices, and Data Engineering Solutions**.
 * 🌐 Strong Full-Stack Development experience with **React.js, Redux, TypeScript, Tailwind CSS, and Material UI**.
 * ☁️ Hands-on experience with **GCP Pub/Sub, BigQuery, Cloud Functions, Azure Data Factory, Azure Databricks, and Cloud-Native Architectures**.
-* 👨‍🏫 **Technical Mentor**, mentoring engineers in Python, AI, and Backend Development.
+* 👨‍🏫 **Technical Mentor & Interview Panel Member**, mentoring engineers in Python, AI, and Backend Development.
 * 🌱 Currently exploring **Advanced Agentic AI, Multi-Agent Workflows, AI Evaluation Frameworks, and Enterprise AI Architectures**.
 * 🤝 Open to collaborating on **AI/GenAI, Data Engineering, Backend Development, Cloud Computing, and Open Source Projects**.
 
@@ -77,7 +77,7 @@
 
 ### 📊 Data Engineering
 <p align="left">
-  <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" width="45" height="45" alt="Databricks"/></a>
+  <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="45" height="45" alt="Databricks"/></a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="45" height="45" alt="Apache Spark"/></a>
 </p>
 
