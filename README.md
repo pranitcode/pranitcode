@@ -29,7 +29,7 @@
 * 📊 Experienced in designing **ETL/ELT Pipelines, Event-Driven Architectures, Microservices, and Data Engineering Solutions**.
 * 🌐 Strong Full-Stack Development experience with **React.js, Redux, TypeScript, Tailwind CSS, and Material UI**.
 * ☁️ Hands-on experience with **GCP Pub/Sub, BigQuery, Cloud Functions, Azure Data Factory, Azure Databricks, and Cloud-Native Architectures**.
-* 👨‍🏫 **Technical Mentor & Interview Panel Member**, mentoring engineers in Python, AI, and Backend Development.
+* 👨‍🏫 **Technical Mentor**, mentoring engineers in Python, AI, and Backend Development.
 * 🌱 Currently exploring **Advanced Agentic AI, Multi-Agent Workflows, AI Evaluation Frameworks, and Enterprise AI Architectures**.
 * 🤝 Open to collaborating on **AI/GenAI, Data Engineering, Backend Development, Cloud Computing, and Open Source Projects**.
 
